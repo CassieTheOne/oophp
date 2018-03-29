@@ -1,5 +1,5 @@
 ---
-title: "My title"
+title: "Me-sida"
 ...
 Min me-sida i kursen oophp
 =========================

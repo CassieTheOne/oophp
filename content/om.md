@@ -13,4 +13,4 @@ En fin och representativ bild för kursen, enligt ditt egna val.
 
 Länka till [dbwebb kursrepot på GitHub](https://github.com/dbwebbse/XXX).
 
-Länka till [ditt eget repo för me/redovisa på GitHub](https://github.com/XXX/XXX).
+Länka till [ditt eget repo för me/redovisa på GitHub](https://github.com/CassieTheOne/oophp).

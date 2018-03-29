@@ -13,7 +13,7 @@ namespace Anax\View;
 <html>
 <head>
     <meta charset="utf-8">
-    <title><?= $title ?? "No title" ?></title>
+    <title><?= $title ?? "Me-sida" ?></title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <?php if (isset($favicon)) : ?>
